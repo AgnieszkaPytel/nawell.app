@@ -2,6 +2,10 @@
 
 **A mobile companion that lets you design your workout sessions exactly the way you want.**
 
+<p align="center">
+  <img src="docs/nawell-hero.png" alt="Nawell — voice-guided workout companion" width="360" />
+</p>
+
 📖 Product page: [thehumanbehindai.com/nawell-app](https://thehumanbehindai.com/index.php/nawell-app/)
 
 ## Concept
