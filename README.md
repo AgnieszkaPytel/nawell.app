@@ -12,7 +12,7 @@
 
 You build the exercises, the categories, the vocal counting modes. The app organises, you decide.
 
-Fits calisthenics, mobility, dance, yoga, pilates, stretching — any practice where pre-made programs miss the point.
+Fits calisthenics, pole dance, mobility, yoga, pilates, stretching — any practice where pre-made programs miss the point.
 
 ## Three beliefs
 
@@ -23,7 +23,7 @@ Fits calisthenics, mobility, dance, yoga, pilates, stretching — any practice w
 ## What Nawell does
 
 - 🎙 **Voice coaching** — the voice guides each exercise, step, and count. Screen or no screen.
-- 🗂 **10 default categories** (Barre, Mat, Side splits, Front splits, Post-partum, Arms, Pilates, Yoga, Face Yoga, TRE) — extensible with your own
+- 🗂 **10 default categories** (Pole dance, Floor mat, Side splits, Front splits, Post-partum, Arms, Pilates, Yoga, Face Yoga, TRE) — extensible with your own
 - 🔢 **Counting modes** — linear, reverse, 1→8→8→1 pyramid, silent, or your own vocal sequences (4-7-8 breathing, rhymed count, dance tempo…)
 - ⚖ **Weight tracking** — planned vs actual curve, daily entry, custom target, retroactive input
 - 🎨 **4 visual palettes** — Roses, Pop Art, Graphite, Storm
