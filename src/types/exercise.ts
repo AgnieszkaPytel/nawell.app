@@ -49,7 +49,7 @@ export interface Category {
 }
 
 export const DEFAULT_CATEGORIES: ReadonlyArray<Category> = [
-  { id: 'bar', name: 'Barre', emoji: '💃', createdAt: 1, updatedAt: 1 },
+  { id: 'bar', name: 'Pole dance', emoji: '💃', createdAt: 1, updatedAt: 1 },
   { id: 'mat', name: 'Tapis', emoji: '🪷', createdAt: 2, updatedAt: 2 },
   { id: 'splits', name: 'Écart latéral', emoji: '🦋', createdAt: 3, updatedAt: 3 },
   { id: 'front-splits', name: 'Écart facial', emoji: '🤸', createdAt: 4, updatedAt: 4 },
