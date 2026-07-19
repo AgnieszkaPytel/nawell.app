@@ -1,50 +1,54 @@
-# Welcome to your Expo app 👋
+# Nawell 🌱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**A mobile companion that lets you design your workout sessions exactly the way you want.**
 
-## Get started
+📖 Product page: [thehumanbehindai.com/nawell-app](https://thehumanbehindai.com/index.php/nawell-app/)
 
-1. Install dependencies
+## Concept
 
-   ```bash
-   npm install
-   ```
+You build the exercises, the categories, the vocal counting modes. The app organises, you decide.
 
-2. Start the app
+Fits calisthenics, mobility, dance, yoga, pilates, stretching — any practice where pre-made programs miss the point.
 
-   ```bash
-   npx expo start
-   ```
+## Three beliefs
 
-In the output, you'll find options to open the app in a
+1. Training fits you, never the other way around
+2. The app organises your knowledge — it never replaces it
+3. Simplicity beats algorithmic noise — honest tracking, guilt-free
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## What Nawell does
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 🎙 **Voice coaching** — the voice guides each exercise, step, and count. Screen or no screen.
+- 🗂 **10 default categories** (Barre, Mat, Side splits, Front splits, Post-partum, Arms, Pilates, Yoga, Face Yoga, TRE) — extensible with your own
+- 🔢 **Counting modes** — linear, reverse, 1→8→8→1 pyramid, silent, or your own vocal sequences (4-7-8 breathing, rhymed count, dance tempo…)
+- ⚖ **Weight tracking** — planned vs actual curve, daily entry, custom target, retroactive input
+- 🎨 **4 visual palettes** — Roses, Pop Art, Graphite, Storm
+- 🎵 **Background music** — local mp3 or URL, mixed with the coach voice
+- 📊 **CSV Import/Export** — structure your routines in Excel, Google Sheets or Numbers, import in one click
 
-## Get a fresh project
+## Tech stack
 
-When you're ready, run:
+- **Expo** (React Native) — iOS, Android, Web from a single codebase
+- **TypeScript**
+- **Native SVG** for the weight chart
+- **AI-native development** with Claude Code
+
+## Run locally
 
 ```bash
-npm run reset-project
+git clone https://github.com/AgnieszkaPytel/nawell.app.git
+cd nawell.app
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- **Web** — open the `localhost:8081` URL shown in the terminal
+- **Mobile** — scan the QR code with [Expo Go](https://expo.dev/go)
 
-## Learn more
+## Status
 
-To learn more about developing your project with Expo, look at the following resources:
+Android beta in preparation — [join the early-bird community](https://thehumanbehindai.com/index.php/nawell-app/).
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Built by [Agnieszka Pytel](https://thehumanbehindai.com) — AI Product Builder based in Nantes.
